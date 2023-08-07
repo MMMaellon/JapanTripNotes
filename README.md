@@ -1,0 +1,2 @@
+# JapanTripNotes
+My Japan Trip
