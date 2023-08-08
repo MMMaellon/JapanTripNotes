@@ -11,8 +11,12 @@
             "id": "6fe7d10ee9b0f13b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JapanTripNotes/2023-08-07.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "JapanTripNotes/2023-08-07.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "JapanTripNotes/2023-08-07.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +121,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "JapanTripNotes/2023-08-07.md"
+          }
         }
       },
       {
@@ -139,17 +147,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "313591c8e43723d8",
+  "active": "aba483696c40256d",
   "lastOpenFiles": [
+    "Readme.md",
+    "JapanTripNotes/2023-08-07.md",
     "Images",
     "JapanTripNotes",
-    "JapanTripNotes/2023-08-07.md",
     "2022-10-13.md",
     "20211010_171358.jpg",
     "fb.bin (2).png",
     "fb.bin (2) 1.png",
     "first file.md",
-    "Readme.md",
     "JapanTripNotes"
   ]
 }
