@@ -1,0 +1,3 @@
+[submodule "VRChatTutorial"]
+	path = VRChatTutorial
+	url = https://github.com/MMMaellon/VRChatTutorial.git
